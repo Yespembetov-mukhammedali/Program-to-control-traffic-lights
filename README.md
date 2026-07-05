@@ -1,4 +1,4 @@
-#3-Phase Traffic Light Control System via FBD & HMI Visualization
+# 3-Phase Traffic Light Control System via FBD & HMI Visualization
 
 An industrial-grade automation project implementing a sequential 3-phase traffic light control system (Red, Yellow, Green) using **Function Block Diagram (FBD)** logic compliant with the **IEC 61131-3** standard. The system features a fully integrated **HMI (Human-Machine Interface)** dashboard for real-time monitoring and simulation.
 
