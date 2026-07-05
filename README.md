@@ -6,7 +6,7 @@ This repository contains a university engineering project focused on developing 
 
 ## 📌 Project Description
 
-The goal of this project was to implement a sequential traffic light cycle (Red -> Yellow -> Green) using cascading timer logic. Instead of interlocking flags, the state transitions are driven by three distinct timers, where the completion (`DN` / Done bit) of one timer automatically initializes the next phase.
+The goal of this project was to implement a sequential traffic light cycle (Red -> Yellow -> Green) using cascading timer logic. Instead of interlocking flags, the state transitions are driven by three distinct timers, where the completion of one timer automatically initializes the next phase.
 
 ### Features:
 * **Structured FBD Networks:** The logic is divided into clear networks to ensure easy debugging and modifications.
