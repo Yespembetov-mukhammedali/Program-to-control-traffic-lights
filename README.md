@@ -1,15 +1,16 @@
-# 3-Phase Traffic Light Control System via FBD & HMI Visualization
+# 1. PLC Traffic Light Control System (FBD & HMI Visualization)
 
-An industrial-grade automation project implementing a sequential 3-phase traffic light control system (Red, Yellow, Green) using **Function Block Diagram (FBD)** logic compliant with the **IEC 61131-3** standard. The system features a fully integrated **HMI (Human-Machine Interface)** dashboard for real-time monitoring and simulation.
+This repository contains a university engineering project focused on developing a 3-phase traffic light control system using **Function Block Diagram (FBD)** programming, compliant with the **IEC 61131-3** standard. The project includes the controller logic and an integrated **HMI (Human-Machine Interface)** screen for live simulation and monitoring.
 
 ---
 
-## 📌 Project Overview
+## 📌 Project Description
 
-This repository contains the complete implementation of a classic traffic control algorithm designed for PLCs (Programmable Logic Controllers). Instead of basic scripting, the control loop utilizes dedicated cascading hardware timers to ensure robust, deterministic, and safe state transitions.
+The goal of this project was to implement a sequential traffic light cycle (Red -> Yellow -> Green) using cascading timer logic. Instead of interlocking flags, the state transitions are driven by three distinct timers, where the completion (`DN` / Done bit) of one timer automatically initializes the next phase.
 
-### Key Features:
-* **Deterministic Logic:** Engineered using FBD networks for clear, scannable data flows.
-* **Cascading Timer Architecture:** Three synchronized timers managing the precise execution duration of each light phase.
-* **HMI Dynamic Visualization:** Live operational dashboard mapped directly to the controller's I/O image table for real-time diagnostics.
-* **IEC 61131-3 Compliant:** Built adhering to global industrial automation standards.
+### Features:
+* **Structured FBD Networks:** The logic is divided into clear networks to ensure easy debugging and modifications.
+* **Cascading Timer Cycle:** Three independent timers manage the precise duration for each light phase.
+* **HMI Dashboard:** A basic graphical interface linked directly to the PLC I/O to simulate real-world operation.
+
+---
