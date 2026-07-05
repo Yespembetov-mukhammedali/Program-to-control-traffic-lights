@@ -4,7 +4,7 @@ This repository contains a university engineering project focused on developing 
 
 ---
 
-## <img width="512" height="512" alt="image" src="https://github.com/user-attachments/assets/bc0b4c8b-001b-4d16-95d8-3bb266205d88" /> Project Description
+## Project Description
 
 The goal of this project was to implement a sequential traffic light cycle (Red -> Yellow -> Green) using cascading timer logic. Instead of interlocking flags, the state transitions are driven by three distinct timers, where the completion of one timer automatically initializes the next phase.
 
