@@ -26,3 +26,10 @@ The goal of this project was to implement a sequential traffic light cycle (Red 
 This project focuses on updating the traffic light control system by introducing a flashing yellow signal mode for night operation, where the system automatically switches between day and night modes based on a set time or a control signal, while also updating the HMI visualization to display both modes of operation clearly.
 
 [![Watch the video](./image/hmi_screen2.jpg)](https://youtu.be/RlimR032maI)
+
+---
+# 3.Real-Time HMI Timer Adjustments and Pedestrian Control
+
+This project involves developing a traffic light control program with three signals (red, yellow, green) where the duration of each signal is controlled by timers and can be adjusted directly from the HMI panel in real time. Additionally, a pedestrian enquiry function is implemented, which requires two pedestrian buttons to be pressed simultaneously to reduce the duration of the current active signal to its minimum value, allowing pedestrians to cross sooner. The HMI visualization is also updated to support real-time time editing and show the pedestrian button status.
+
+
