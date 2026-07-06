@@ -32,4 +32,5 @@ This project focuses on updating the traffic light control system by introducing
 
 This project involves developing a traffic light control program with three signals (red, yellow, green) where the duration of each signal is controlled by timers and can be adjusted directly from the HMI panel in real time. Additionally, a pedestrian enquiry function is implemented, which requires two pedestrian buttons to be pressed simultaneously to reduce the duration of the current active signal to its minimum value, allowing pedestrians to cross sooner. The HMI visualization is also updated to support real-time time editing and show the pedestrian button status.
 
+[![Watch the video](./image/hmi_screen3.jpg)](https://youtu.be/Fvi9DHGTcF0)
 
