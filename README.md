@@ -17,7 +17,7 @@ The goal of this project was to implement a sequential traffic light cycle (Red 
 
 ## You can see the HMI visualization here (just click to picture):
 
-[![Watch the video](./image/image.png)](https://youtu.be/8JcoplaTBGY)
+[![Watch the video](./image/hmi_screen1.jpg)](https://youtu.be/8JcoplaTBGY)
 
 ---
 
