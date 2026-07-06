@@ -21,7 +21,8 @@ The goal of this project was to implement a sequential traffic light cycle (Red 
 
 ---
 
-# Adding Night Mode
+# 2.Adding Night Mode
 
 This project focuses on updating the traffic light control system by introducing a flashing yellow signal mode for night operation, where the system automatically switches between day and night modes based on a set time or a control signal, while also updating the HMI visualization to display both modes of operation clearly.
 
+[![Watch the video](./image/image.png)](https://youtu.be/RlimR032maI)
