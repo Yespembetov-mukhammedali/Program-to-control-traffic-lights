@@ -14,3 +14,8 @@ The goal of this project was to implement a sequential traffic light cycle (Red 
 * **HMI Dashboard:** A basic graphical interface linked directly to the PLC I/O to simulate real-world operation.
 
 ---
+
+## You can see the HMI visualization here:
+
+[![Watch the video](./images/image.png)](https://youtu.be/8JcoplaTBGY)
+
