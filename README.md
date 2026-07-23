@@ -34,3 +34,7 @@ This project involves developing a traffic light control program with three sign
 
 [![Watch the video](./image/hmi_screen3.jpg)](https://youtu.be/Fvi9DHGTcF0)
 
+Part 2 
+
+[![Watch the video](./image/hmi_screen3.jpg)](https://youtu.be/BvX8VvBnK6U)
+
